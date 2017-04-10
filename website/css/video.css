@@ -1,0 +1,39 @@
+.parentDiv
+{
+  display: inline-block;
+  width: 90%;
+  margin: 0 auto;
+
+  clear: both;
+}
+
+.twoChildDivs
+{
+  float: left;
+  width: 50%;
+}
+
+.threeChildDivs
+{
+  float: left;
+  width: 33%;
+}
+
+video
+{
+  height: 150px;
+}
+
+
+figcaption
+{
+  text-align: center;
+}
+
+
+iframe {
+  width: 90%;
+  height: 350px;
+  overflow: hidden;
+}
+

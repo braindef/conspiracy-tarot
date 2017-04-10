@@ -1,0 +1,2 @@
+xdotool  $(xdotool search --name "Export") key x
+
